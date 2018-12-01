@@ -3,10 +3,10 @@ from setuptools import setup
 
 setup(
     name                = 'payme',
-    version             = '0.1.1',
+    version             = '0.2.0',
     description         = 'PayU Money Payment Gateway integration utilities',
     long_description    = 'README on GitHub',
-    url                 = 'http://github.com/dsfx3d/payme',
+    url                 = 'http://github.com/dsfx3d/pay-me',
     author              = 'dsfx3d',
     author_email        = 'dsfx3d@gmail.com',
     license             = 'MIT',
